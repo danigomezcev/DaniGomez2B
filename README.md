@@ -1,2 +1,2 @@
 # DaniGomez2B
- Repositorio de pruebas
+ Repositorio de pruebas para la asignatura de Github

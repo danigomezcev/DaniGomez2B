@@ -66,7 +66,7 @@ void main()
             " valido la pena finalmente\n");
         }
 
-        else
+        else 
         {
             // Nuevo Final - Como no podias esperar mas decidiste hacerlo todo en la cocina...
             printf ("Justo cuando terminas en la cocina viene tu madre ha decirte de todo por no haberlo hecho en el "
@@ -78,4 +78,8 @@ void main()
     scanf ("%c", &c) ;  
 }  
  
+<<<<<<< Updated upstream
 // Hola que tal
+=======
+// Hola
+>>>>>>> Stashed changes

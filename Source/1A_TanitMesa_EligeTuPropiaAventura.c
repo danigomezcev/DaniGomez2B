@@ -78,4 +78,4 @@ void main()
     scanf ("%c", &c) ;  
 }  
  
-#Hola
+// Hola que tal

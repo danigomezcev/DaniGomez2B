@@ -78,8 +78,7 @@ void main()
     scanf ("%c", &c) ;  
 }  
  
-<<<<<<< Updated upstream
+
 // Hola que tal
-=======
-// Hola
->>>>>>> Stashed changes
+
+
